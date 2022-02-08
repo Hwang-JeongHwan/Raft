@@ -10,6 +10,8 @@ noRejoin_orderer는 기존의 raft 알고리즘이고
 
 noRejoin_forderer는 favorite이 추가된 raft 알고리즘
 
+각각의 폴더명 뒤의 숫자는 time min을 나타냄
+
 사용법
 ordere가 5개이고 message handler와 transaction을 발생시키기 위한 프로그램을 실행하기 위해
 터미널을 7개 열어줌
