@@ -1,0 +1,129 @@
+tmin 25
+f 203.022,abnormal : 14 o 213.92710706150342,abnoral:18 /27.5
+
+f 186.506,abnormal : 18 o 209.102,abnormal : 22 / 30 
+
+f 172.124,abnormal : 24  o 211.13 abnormal : 11 /32.5
+
+f 173.60714285714286,abnormal : 17 o  208.096, abnormal : 18/35
+
+f 191.042,abnormal : 25 o 206.136,abnormal : 20 / 37.5
+
+f 194.390,abnormal : 11 o 220.946,abnormal : 16 / 40 
+
+f 200.548,abnormal : 17o 220.916,abnormal 5 /42.5
+
+f 190.394,abnormal : 10 o 230.132,abnormal : 17 /45
+
+f 212.004,abnormal : 17 o 226.588,abnormal : 22 / 47.5
+
+f 208.964,abnormal : 16 222.858,abnormal :  24 / 50
+
+
+tmin 50
+f 145.376,abnormal : 36  o 164.498,abnormal : 60 /55
+ 
+f 167.288,abnormal : 12 o 192.938,abnormal : 33 /60
+
+f 185.264,abnormal : 34 o 192.976,abnormal : 31 /65
+
+f 179.77,abnormal : 12 o 202.126,abnormal : 9 /70
+
+f 167.734,abnormal : 33  o 192.736,abnormal : 53 /75
+
+f 185.146,abnormal : 37 o 195.08,abnormal : 49 /80
+
+f 171.384,abnormal : 35 o 213.068,abnormal : 53 / 85
+
+f 205.09,abnormal : 4 o 221.77,abnormal : 36 / 90
+
+f 206.308,abnormal : 26 o 220.446,abnormal : 40/ 95
+
+f 224.866,abnormal : 21 o 233.818,abnormal : 26 / 100 
+
+tim 50 2차
+
+f 157.61,abnormal : 14   o 189.524,abnormal : 37 /55
+
+f 170.722,abnormal :  17   o 186.976,abnormal : 30 /60
+
+f 170.888,abnormal 14  o 181.358,abnormal : 34 /65
+
+f 171.516,abnormal : 11 o194.412,abnormal : 16 /70
+
+f 166.16,abnormal : 11  o 217.808,abnormal : 4 /75
+
+f 158.29,abnormal : 7 o 186.754,abnormal : 11 /80
+
+f 174.068 abnormal : 14 o 188.574 abnormal : 26 / 85
+
+f 186.392,abnormal : 26 o 195.973 ,abnormal : 35  / 90
+
+f 183.57,abnormal : 6  o 220.202,abnormal : 13 / 95
+
+f 196.604,abnormal : 26 o 220.766,abnormal : 18 / 100
+
+tmin 100
+
+f 185.666,abnormal : 37 o 193.322,abnormal : 35 / 110
+
+f 171.722,abnormal :29 o 209.03,abnormal : 10 / 120 
+
+f 188.302,abnormal :1 o 214.738,abnormal : 9 / 130
+
+f 170.656,abnormal :20 o 195.12,abnormal : 9 /140 
+
+f 161.24,abnormal :36 o 174.496,abnormal : 34 / 150
+
+f 167.136,abnormal :42 o 193.241,abnormal : 46 /160
+
+f 170.286,abnormal :39 o 180.982,abnormal : 37 / 170
+
+f 184.39,abnormal :4 o 206.988,abnormal : 47 / 180
+
+f 188.516,abnormal :2 o 212.146,abnormal : 1 / 190
+
+f 205.66,abnormal :3 o 220.876,abnormal : 6 /200
+
+tmin 150
+
+f 228.552,abnormal : 23  o 242.132,abnormal : 11 / 165
+
+f 226.8,abnormal : 6 o 251.444,abnormal : 23 /180
+
+f 218.63,abnormal : 32 o 244.046,abnormal : 29 / 195
+
+f 218.16,abnormal : 32  o 235.1 ,abnormal : / 210 
+
+f 200.366,abnormal : 12 o  221.942,abnormal : 25 / 225
+
+f 208.84,abnormal : 34  o  225.038,abnormal : 35 / 240
+
+f 215.07,abnormal : 36 o  238.358,abnormal : 35 / 255
+
+f 215.84,abnormal : 33 o  227.436 ,abnormal : 30 / 270
+
+f 227.436,abnormal : 30 o 249.464 ,abnormal : 29 / 285
+
+f 225,abnormal : 21 o 256.414,abnormal : 39 / 300
+
+tmin 200
+f 230.252,abnormal : 36 o 248.174,abnormal : 37 / 220
+
+f 203.124,abnormal : 7 o 215.142,abnormal : 9 / 240
+
+f 220.07,abnormal : 10 o 234.564,abnormal 14 / 260
+
+f 229.396,abnormal : 25 o 245.154,abnormal : 30 / 280
+
+f 221.35,abnormal : 41 o 251.68,abnormal : 50 /300
+
+f 221.694,abnormal : 46 o 227.442,abnormal : 46/320
+
+f 214.03,abnormal : 13 o 240.978, abnormal : 20/340
+
+f 229.718,abnormal : 18 o 246.078,abnormal : 28 /360
+
+f 224.202,abnormal : 24 o 261.502,abnormal : 31 /380
+
+f 243.6874,abnormal : 25 o 270.234,abnormal : 30 /400
