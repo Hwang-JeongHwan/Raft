@@ -1,0 +1,7 @@
+start
+{"id":"app","key":"x","value":2,"logindex":1,"term":2}
+{"id":"app","key":"x","value":3,"logindex":2,"term":3}
+{"id":"app","key":"x","value":4,"logindex":3,"term":4}
+{"id":"app","key":"x","value":5,"logindex":4,"term":5}
+{"id":"app","key":"x","value":6,"logindex":5,"term":6}
+{"id":"app","key":"x","value":7,"logindex":6,"term":7}

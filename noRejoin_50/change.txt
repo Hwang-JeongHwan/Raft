@@ -1,0 +1,3 @@
+response time is 71 try = 1 leader alive 
+response time is 72 try = 1 leader alive 
+response time is 72 try = 1 leader alive 

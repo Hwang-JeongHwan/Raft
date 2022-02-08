@@ -1,0 +1,5 @@
+response time is 418 try = 1 leader alive 
+response time is 121 try = 1 abnormal 
+response time is 95 try = 1 leader alive 
+response time is 129 try = 1 leader alive 
+response time is 90 try = 1 leader alive 
