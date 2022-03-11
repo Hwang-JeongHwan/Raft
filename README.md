@@ -30,3 +30,6 @@ favorite이 추가된 raft 알고리즘을 테스트하는 경우
 
 5개의 터미널에 각각 node noRejoin_forderer(time min)~(time max).(orderer number) 실행시킨 뒤
 node app2.1과 node testmh4.0을 실행시킴
+
+----------------------------------------------------------------------------------------
+테스트 결과 데이터_summary.xlsx에 정리되어있음
